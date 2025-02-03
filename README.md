@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=1900&pause=400&color=189CD6&width=500&height=60&lines=Hello+World;I'm+Faisal!)](https://git.io/typing-svg)
-- **HBSc. in Computer Science from the University of Toronto Mississauga**, graduating in November 2024 🎓
-- Aspiring Full Stack Developer, Backend Developer, Software Engineer, or Software Developer opportunities 💻
 
 # My Tech Stack 📚
 
