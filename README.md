@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=1900&pause=400&color=189CD6&width=500&height=60&lines=Hello+World;I'm+Faisal!)](https://git.io/typing-svg)
 
-- 🎓 Computer Science Graduate from the University of Toronto, with Distinction
+- 🎓 Computer Science Graduate from the University of Toronto, with Distinction.
 - ⚡ Skilled in software development, scalable system design, and Agile methodologies.
-- 🚀 Passionate about problem-solving, system architecture, networking, and cloud technologies, 
+- 🚀 Passionate about problem-solving, system architecture, networking, and cloud technologies. 
 # My Tech Stack 📚
 
 ## Languages 
